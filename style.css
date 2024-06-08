@@ -1,0 +1,44 @@
+body {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.subject, .topic {
+    display: block;
+    margin: 20px;
+    font-weight: bolder;
+    font-size: 20px;
+    color: orangered;
+}
+
+.topic {
+    font-size: 16px;
+    margin: 15px;
+}
+
+p {
+    padding: 10px;
+    background-color: rgb(201, 201, 201);
+    border-radius: 5px;
+}
+
+.indice {
+    background-color: rgb(201, 201, 201);
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.indice ul {
+    background-color: white;
+    padding: 10px;
+    width: 80%;
+    margin: 0 auto;
+    list-style-position: inside;
+    color: orangered;
+}
+
+a {
+    color: orangered;
+    text-decoration: none;
+}
